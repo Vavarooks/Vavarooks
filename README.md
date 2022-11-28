@@ -1,6 +1,4 @@
-# README.md
-
-- About me:
+# About me:
   ~ My name is Vanessa Emerick
   ~ I am 21 years old
   ~ I am a female
@@ -11,4 +9,3 @@
     - Solo Game Development: https://gamefun01.itch.io/meta-love
     
 ----------------------------------------------------------------------------------------
-C Charp LogoGithub Logo Python LogoReact Logo HTML 5 LogoNode JS Logo MongoDB Logo
