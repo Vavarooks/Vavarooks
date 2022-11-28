@@ -9,3 +9,6 @@
   ~ I love creating and coding is just another way for me to produce fun ideas.
   ~ I have dabbled in many programs and even have made some game.
     - Solo Game Development: https://gamefun01.itch.io/meta-love
+    
+----------------------------------------------------------------------------------------
+C Charp LogoGithub Logo Python LogoReact Logo HTML 5 LogoNode JS Logo MongoDB Logo
