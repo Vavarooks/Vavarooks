@@ -5,7 +5,7 @@
   - I was born on July 4, 2001
   - My hobbies: drawing, gaming and reading.
   - I love creating and coding is just another way for me to produce fun ideas.
-  - I have dabbled in many programs and even have made some game.
+  - I have dabbled in many programs and even have made a game.
      - Solo Game Development: https://gamefun01.itch.io/meta-love
     
 ----------------------------------------------------------------------------------------
