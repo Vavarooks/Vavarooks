@@ -1,11 +1,3 @@
-# Programming Languages:
-  - Python
-  - CSS
-  - HTML
-  - MongooseDB
-  - MySQL
-  - Javascript
-  - Java
 # About me:
   - My name is Vanessa Emerick
   - I am 21 years old
@@ -15,5 +7,13 @@
   - I love creating and coding is just another way for me to produce fun ideas.
   - I have dabbled in many programs and even have made a game.
      - Solo Game Development: https://gamefun01.itch.io/meta-love
+# Programming Languages:
+  - Python
+  - CSS
+  - HTML
+  - MongooseDB
+  - MySQL
+  - Javascript
+  - Java
     
 ----------------------------------------------------------------------------------------
