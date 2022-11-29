@@ -1,3 +1,11 @@
+# Programming Languages:
+  - Python
+  - CSS
+  - HTML
+  - MongooseDB
+  - MySQL
+  - Javascript
+  - Java
 # About me:
   - My name is Vanessa Emerick
   - I am 21 years old
